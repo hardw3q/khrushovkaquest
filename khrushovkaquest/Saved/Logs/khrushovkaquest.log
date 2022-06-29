@@ -714,3 +714,21 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.06.29-20.25.16:312][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2022.06.29-20.25.16:314][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2022.06.29-20.27.01:244][323]LogDerivedDataCache: C:/Users/sobdo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.049 and deleted 0 file(s) with total size 0 MiB.
+[2022.06.29-21.00.03:247][686]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.06.29-21.00.03:247][686]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.06.29-21.00.03:250][686]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PlayerStart_1
+[2022.06.29-21.00.03:251][686]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.06.29-21.00.03:255][686]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PlayerStart_1
+[2022.06.29-21.00.03:256][686]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.06.29-21.00.03:660][707]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.06.29-21.00.03:660][707]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.06.29-21.00.03:674][707]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PlayerStart_UAID_2A326F060A9C581E01_1906738327
+[2022.06.29-21.00.03:674][707]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.06.29-21.00.03:674][707]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PlayerStart_UAID_2A326F060A9C581E01_1906738327
+[2022.06.29-21.00.03:675][707]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.06.29-21.00.05:772][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.06.29-21.00.05:848][862]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.006615 seconds
+[2022.06.29-21.00.05:854][862]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/OZ/7W0SG3G2SNZQKTD0HFQYA1
+[2022.06.29-21.00.05:855][862]LogSavePackage: Moving '../../../../../../Users/sobdo/Documents/Unreal Projects/khrushovkaquestRepository/khrushovkaquest/Saved/7W0SG3G2SNZQKTD0HFQYA113A7A24D4E76C60DECEC3489FE316CF3.tmp' to '../../../../../../Users/sobdo/Documents/Unreal Projects/khrushovkaquestRepository/khrushovkaquest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/OZ/7W0SG3G2SNZQKTD0HFQYA1.uasset'
+[2022.06.29-21.00.05:885][862]AssetCheck: New page: Asset Save: PlayerStart_UAID_2A326F060A9C581E01_1906738327
+[2022.06.29-21.00.05:885][862]LogContentValidation: Display: Validating PlayerStart /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PlayerStart_UAID_2A326F060A9C581E01_1906738327
