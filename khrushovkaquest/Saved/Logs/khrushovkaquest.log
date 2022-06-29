@@ -2113,3 +2113,484 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.06.29-21.50.23:950][681]LogSavePackage: Moving '../../../../../../Users/sobdo/Documents/Unreal Projects/khrushovkaquestRepository/khrushovkaquest/Saved/LandscapeMaterial2943D0794EFE403AB11FB6AAE7EB364E.tmp' to '../../../../../../Users/sobdo/Documents/Unreal Projects/khrushovkaquestRepository/khrushovkaquest/Content/Materials/LandscapeMaterial.uasset'
 [2022.06.29-21.50.23:965][681]AssetCheck: New page: Asset Save: LandscapeMaterial
 [2022.06.29-21.50.23:965][681]LogContentValidation: Display: Validating Material /Game/Materials/LandscapeMaterial.LandscapeMaterial
+[2022.06.29-21.50.50:515][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.06.29-21.50.50:521][804]LogTexture: Display: Building textures: /Game/levels/KhrushovkaMain.KhrushovkaMain:PersistentLevel.Landscape_0.Weightmap_0 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.06.29-21.50.50:616][804]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/levels/KhrushovkaMain_Auto1
+[2022.06.29-21.50.50:617][804]LogSavePackage: Moving '../../../../../../Users/sobdo/Documents/Unreal Projects/khrushovkaquestRepository/khrushovkaquest/Saved/KhrushovkaMain_Auto1C453863D4AE696E205C7D68CD67FAEFC.tmp' to '../../../../../../Users/sobdo/Documents/Unreal Projects/khrushovkaquestRepository/khrushovkaquest/Saved/Autosaves/Game/levels/KhrushovkaMain_Auto1.umap'
+[2022.06.29-21.50.50:633][804]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/levels/KhrushovkaMain' took 0.131
+[2022.06.29-21.50.50:633][804]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.131
+[2022.06.29-21.50.50:635][804]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Forest_Floor_vl0kbb0g/MI_Forest_Floor_vl0kbb0g_8K] ([1] browsable assets)...
+[2022.06.29-21.50.50:732][804]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Megascans/Surfaces/Forest_Floor_vl0kbb0g/MI_Forest_Floor_vl0kbb0g_8K.MI_Forest_Floor_vl0kbb0g_8K]
+[2022.06.29-21.50.50:732][804]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Forest_Floor_vl0kbb0g/MI_Forest_Floor_vl0kbb0g_8K]
+[2022.06.29-21.50.50:748][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.06.29-21.50.50:861][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.06.29-21.50.50:865][804]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Megascans/Surfaces/Forest_Floor_vl0kbb0g/MI_Forest_Floor_vl0kbb0g_8K_Auto1
+[2022.06.29-21.50.50:865][804]LogSavePackage: Moving '../../../../../../Users/sobdo/Documents/Unreal Projects/khrushovkaquestRepository/khrushovkaquest/Saved/MI_Forest_Floor_vl0kbb0g_8K_Auto13E14FB340C42AF1704F16B9FDF44E76.tmp' to '../../../../../../Users/sobdo/Documents/Unreal Projects/khrushovkaquestRepository/khrushovkaquest/Saved/Autosaves/Game/Megascans/Surfaces/Forest_Floor_vl0kbb0g/MI_Forest_Floor_vl0kbb0g_8K_Auto1.uasset'
+[2022.06.29-21.50.50:866][804]LogFileHelpers: Auto-saving content packages took 0.232
+[2022.06.29-21.52.51:524][376]Cmd: TRANSACTION UNDO
+[2022.06.29-21.52.51:524][376]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.06.29-21.52.51:810][376]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 451D378DECC6F42DF0ACAC30B1556B244C1D8062), compiling. 
+[2022.06.29-21.52.51:925][376]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.29-21.52.51:925][376]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.52.51:925][376]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.52.51:925][376]MaterialEditorStats: Shader Count: 0
+[2022.06.29-21.52.52:134][378]LogShaderCompilers: Display: ================================================
+[2022.06.29-21.52.52:134][378]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.29-21.52.52:134][378]LogShaderCompilers: Display: Total job queries 810, among them cache hits 596 (73.58%)
+[2022.06.29-21.52.52:134][378]LogShaderCompilers: Display: Tracking 202 distinct input hashes that result in 78 distinct outputs (38.61%)
+[2022.06.29-21.52.52:134][378]LogShaderCompilers: Display: RAM used: 0.17 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.06.29-21.52.52:134][378]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.06.29-21.52.52:134][378]LogShaderCompilers: Display: Shaders Compiled: 34
+[2022.06.29-21.52.52:134][378]LogShaderCompilers: Display: Jobs assigned 202, completed 202 (100.00%)
+[2022.06.29-21.52.52:135][378]LogShaderCompilers: Display: Average time worker was idle: 71.70 s
+[2022.06.29-21.52.52:135][378]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2022.06.29-21.52.52:135][378]LogShaderCompilers: Display: Job execution time: average 1.22 s, max 2.18 s
+[2022.06.29-21.52.52:135][378]LogShaderCompilers: Display: Job life time (pending + execution): average 1.28 s, max 2.27
+[2022.06.29-21.52.52:135][378]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 61.94 s
+[2022.06.29-21.52.52:135][378]LogShaderCompilers: Display: Jobs were issued in 202 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.06.29-21.52.52:135][378]LogShaderCompilers: Display: Average processing rate: 3.26 jobs/sec
+[2022.06.29-21.52.52:135][378]LogShaderCompilers: Display: Effective parallelization: 3.30 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2022.06.29-21.52.52:135][378]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.06.29-21.52.52:135][378]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 1.60 sec, max 1.75 sec, min 1.50 sec)
+[2022.06.29-21.52.52:135][378]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    4 times, average 1.57 sec, max 1.71 sec, min 1.48 sec)
+[2022.06.29-21.52.52:135][378]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    4 times, average 1.56 sec, max 1.73 sec, min 1.47 sec)
+[2022.06.29-21.52.52:135][378]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    4 times, average 1.55 sec, max 1.73 sec, min 1.45 sec)
+[2022.06.29-21.52.52:135][378]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    4 times, average 1.54 sec, max 1.69 sec, min 1.42 sec)
+[2022.06.29-21.52.52:135][378]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.06.29-21.52.52:135][378]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.46% of total time (compiled   37 times, average 1.08 sec, max 1.29 sec, min 0.89 sec)
+[2022.06.29-21.52.52:135][378]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.06% of total time (compiled   29 times, average 1.06 sec, max 1.23 sec, min 0.95 sec)
+[2022.06.29-21.52.52:135][378]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.81% of total time (compiled   28 times, average 0.94 sec, max 1.20 sec, min 0.75 sec)
+[2022.06.29-21.52.52:135][378]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.82% of total time (compiled   13 times, average 1.23 sec, max 1.64 sec, min 0.96 sec)
+[2022.06.29-21.52.52:135][378]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.69% of total time (compiled   29 times, average 0.40 sec, max 0.49 sec, min 0.35 sec)
+[2022.06.29-21.52.52:135][378]LogShaderCompilers: Display: ================================================
+[2022.06.29-21.52.52:158][379]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.29-21.52.52:158][379]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.52.52:158][379]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.52.52:158][379]MaterialEditorStats: Shader Count: 4
+[2022.06.29-21.53.10:754][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.06.29-21.53.10:823][ 81]LogTexture: Display: Building textures: /Game/levels/KhrushovkaMain.KhrushovkaMain:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.06.29-21.53.10:823][ 81]LogSavePackage: Moving output files for package: /Game/levels/KhrushovkaMain
+[2022.06.29-21.53.10:824][ 81]LogSavePackage: Moving '../../../../../../Users/sobdo/Documents/Unreal Projects/khrushovkaquestRepository/khrushovkaquest/Saved/KhrushovkaMainBC8408704AC04874A454818D4FDB9A65.tmp' to '../../../../../../Users/sobdo/Documents/Unreal Projects/khrushovkaquestRepository/khrushovkaquest/Content/levels/KhrushovkaMain.umap'
+[2022.06.29-21.53.10:860][ 81]AssetCheck: New page: Asset Save: KhrushovkaMain
+[2022.06.29-21.53.10:861][ 81]LogContentValidation: Display: Validating World /Game/levels/KhrushovkaMain.KhrushovkaMain
+[2022.06.29-21.53.13:935][205]LogMaterialEditor: Saving and Compiling material LandscapeMaterial
+[2022.06.29-21.53.14:515][205]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: BEA19337E16F1B84539E77BEDFCEAB5020D36668), compiling. 
+[2022.06.29-21.53.14:532][205]LogMaterial: Display: Missing cached shadermap for LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 1841FB74F6448050E6368F1FA01B9C7D2B440B1E), compiling. 
+[2022.06.29-21.53.14:564][205]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_460 in PCD3D_SM5, Default, SM5 (DDC key hash: 150FBABFF31331B8B6259BF616B1BC22C6009FB8), compiling. 
+[2022.06.29-21.53.14:571][205]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_19 in PCD3D_SM5, Default, SM5 (DDC key hash: 1A77B23A3011F6C3A817F3E6A4CF4F60381F1094), compiling. 
+[2022.06.29-21.53.14:578][205]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_394 in PCD3D_SM5, Default, SM5 (DDC key hash: 5C744D064AD86F8C4FECB87E33160145AF197322), compiling. 
+[2022.06.29-21.53.14:585][205]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_264 in PCD3D_SM5, Default, SM5 (DDC key hash: 2EFC7896103EC67E4FE9BA70597EC6C31D830B68), compiling. 
+[2022.06.29-21.53.14:590][205]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_17 in PCD3D_SM5, Default, SM5 (DDC key hash: 22EB07B057653E440DA464224F56750B5AADD858), compiling. 
+[2022.06.29-21.53.14:693][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.06.29-21.53.14:902][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.06.29-21.53.15:071][205]LogSavePackage: Moving output files for package: /Game/Materials/LandscapeMaterial
+[2022.06.29-21.53.15:072][205]LogSavePackage: Moving '../../../../../../Users/sobdo/Documents/Unreal Projects/khrushovkaquestRepository/khrushovkaquest/Saved/LandscapeMaterial612BA247479823DC49EC9AA464FBA921.tmp' to '../../../../../../Users/sobdo/Documents/Unreal Projects/khrushovkaquestRepository/khrushovkaquest/Content/Materials/LandscapeMaterial.uasset'
+[2022.06.29-21.53.15:085][205]AssetCheck: New page: Asset Save: LandscapeMaterial
+[2022.06.29-21.53.15:085][205]LogContentValidation: Display: Validating Material /Game/Materials/LandscapeMaterial.LandscapeMaterial
+[2022.06.29-21.53.15:096][205]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.06.29-21.53.15:096][205]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2022.06.29-21.53.15:097][205]MaterialEditorStats: Texture samplers: 3/16
+[2022.06.29-21.53.15:097][205]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.53.15:097][205]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.53.15:097][205]MaterialEditorStats: Shader Count: 16
+[2022.06.29-21.53.16:394][266]LogSlate: Window 'LandscapeMaterial' being destroyed
+[2022.06.29-21.53.16:411][266]LogSlate: Window 'LandscapeMaterial' being destroyed
+[2022.06.29-21.53.16:443][266]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.06.29-21.53.16:443][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.29-21.53.25:776][866]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.06.29-21.53.25:776][866]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.06.29-21.53.26:227][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.06.29-21.53.27:268][890]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.29-21.53.27:294][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.06.29-21.53.27:305][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.06.29-21.53.27:315][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.06.29-21.53.33:473][285]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/LandscapeMaterial.LandscapeMaterial
+[2022.06.29-21.53.33:475][285]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6382A9A6DCFF0B6D7CE405C4C846D4C127A0361C), compiling. 
+[2022.06.29-21.53.33:500][285]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.29-21.53.33:580][285]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 5F834625D16416E85DEC4DF73AC483E7A2A7BC2F), compiling. 
+[2022.06.29-21.53.33:587][285]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 9C5C8AAAB6923E0384F84880602CD6693406E963), compiling. 
+[2022.06.29-21.53.33:590][285]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: FF4C1CC8D97EE0AD4BC3509770C2D57915E5F20B), compiling. 
+[2022.06.29-21.53.33:592][285]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0F84469AB2A795956CF263F473BAEBFBE2AB0C3C), compiling. 
+[2022.06.29-21.53.33:595][285]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 531D23EB42F5393D55A43C0431B77072E122C5A0), compiling. 
+[2022.06.29-21.53.33:622][285]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.29-21.53.33:622][285]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.53.33:622][285]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.53.33:622][285]MaterialEditorStats: Shader Count: 0
+[2022.06.29-21.53.33:628][285]LogViewport: Scene viewport resized to 374x426, mode Windowed.
+[2022.06.29-21.53.35:023][386]LogViewport: Scene viewport resized to 373x440, mode Windowed.
+[2022.06.29-21.53.35:156][388]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.29-21.53.35:156][388]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.53.35:156][388]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.53.35:156][388]MaterialEditorStats: Shader Count: 2
+[2022.06.29-21.53.35:176][388]LogViewport: Scene viewport resized to 149x140, mode Windowed.
+[2022.06.29-21.53.35:777][426]LogViewport: Scene viewport resized to 190x201, mode Windowed.
+[2022.06.29-21.53.37:141][509]LogViewport: Scene viewport resized to 246x398, mode Windowed.
+[2022.06.29-21.55.57:445][357]LogSlate: Window 'Content Browser' being destroyed
+[2022.06.29-21.55.57:455][357]LogSlate: Window 'Content Browser' being destroyed
+[2022.06.29-21.55.58:419][425]LogSlate: Window 'Bridge' being destroyed
+[2022.06.29-21.55.58:430][425]LogSlate: Window 'Bridge' being destroyed
+[2022.06.29-21.55.58:943][455]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Wild_Mossy_Grass_vgymchpg/T_Wild_Mossy_Grass_vgymchpg_8K_N.T_Wild_Mossy_Grass_vgymchpg_8K_N (TFO_BC5, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2022.06.29-21.55.59:197][469]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Wild_Mossy_Grass_vgymchpg/T_Wild_Mossy_Grass_vgymchpg_8K_D.T_Wild_Mossy_Grass_vgymchpg_8K_D (TFO_DXT1, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2022.06.29-21.56.07:779][892]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: FC07364147C5BC562A354CAD723FE42DB8B53D4A), compiling. 
+[2022.06.29-21.56.07:783][892]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: E212C8C4B0DB977A60C7D0444C03937D5FC1B0AF), compiling. 
+[2022.06.29-21.56.07:785][892]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 679A0DB38080433FA199B5F98635786FA4EBECEB), compiling. 
+[2022.06.29-21.56.07:787][892]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C72C86D8EA7A0A9AC0B7334515460A8C6CECDA10), compiling. 
+[2022.06.29-21.56.07:790][892]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 23A34FCDFF5223A87BCBD85EBF3C6BFBD6D57847), compiling. 
+[2022.06.29-21.56.07:792][892]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 7307C7857809CF31FE1E93939CD5E748528BC3DD), compiling. 
+[2022.06.29-21.56.07:797][892]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.29-21.56.07:797][892]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.56.07:797][892]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.56.07:797][892]MaterialEditorStats: Shader Count: 0
+[2022.06.29-21.56.07:861][893]LogShaderCompilers: Display: ================================================
+[2022.06.29-21.56.07:861][893]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.29-21.56.07:861][893]LogShaderCompilers: Display: Total job queries 870, among them cache hits 652 (74.94%)
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display: Tracking 206 distinct input hashes that result in 78 distinct outputs (37.86%)
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display: RAM used: 0.17 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display: Shaders Compiled: 34
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display: Jobs assigned 206, completed 206 (100.00%)
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display: Average time worker was idle: 74.26 s
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display: Job execution time: average 1.22 s, max 2.18 s
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display: Job life time (pending + execution): average 1.28 s, max 2.27
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 63.37 s
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display: Jobs were issued in 206 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display: Average processing rate: 3.25 jobs/sec
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display: Effective parallelization: 3.28 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 1.60 sec, max 1.75 sec, min 1.50 sec)
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    4 times, average 1.57 sec, max 1.71 sec, min 1.48 sec)
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    4 times, average 1.56 sec, max 1.73 sec, min 1.47 sec)
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    4 times, average 1.55 sec, max 1.73 sec, min 1.45 sec)
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    4 times, average 1.54 sec, max 1.69 sec, min 1.42 sec)
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.64% of total time (compiled   38 times, average 1.07 sec, max 1.29 sec, min 0.89 sec)
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.29% of total time (compiled   30 times, average 1.06 sec, max 1.23 sec, min 0.95 sec)
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.07% of total time (compiled   29 times, average 0.94 sec, max 1.20 sec, min 0.75 sec)
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.70% of total time (compiled   13 times, average 1.23 sec, max 1.64 sec, min 0.96 sec)
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.78% of total time (compiled   30 times, average 0.40 sec, max 0.49 sec, min 0.35 sec)
+[2022.06.29-21.56.07:862][893]LogShaderCompilers: Display: ================================================
+[2022.06.29-21.56.07:902][894]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.29-21.56.07:902][894]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.56.07:902][894]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.56.07:903][894]MaterialEditorStats: Shader Count: 4
+[2022.06.29-21.56.08:851][943]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Wild_Mossy_Grass_vgymchpg/T_WildMossyGrass_vgymchpg_8K_ORDp.T_WildMossyGrass_vgymchpg_8K_ORDp (TFO_DXT1, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2022.06.29-21.56.10:687][996]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E6247D11FEED255087EB58D3686AA8AEB8427422), compiling. 
+[2022.06.29-21.56.10:693][996]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 1C680FFCFFB3154D0E7021EA4F03A635E330065E), compiling. 
+[2022.06.29-21.56.10:696][996]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2D9A8FCB03201804D429C6D568CA3F51EFF3BCEC), compiling. 
+[2022.06.29-21.56.10:700][996]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 756202B4588AB9188C76B4245C293BC4852F3C71), compiling. 
+[2022.06.29-21.56.10:704][996]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 6A8FE65F0E0B8533457689B66AE61D8DD2D626E2), compiling. 
+[2022.06.29-21.56.10:707][996]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 40FF1B216466ED4B694132487044DEEBCA7B4D6F), compiling. 
+[2022.06.29-21.56.10:710][996]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 8D73B98CFA9A8D1408A8F835D53ACD242D8FEF1B), compiling. 
+[2022.06.29-21.56.10:715][996]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.29-21.56.10:715][996]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.56.10:715][996]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.56.10:715][996]MaterialEditorStats: Shader Count: 0
+[2022.06.29-21.56.10:825][998]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.29-21.56.10:825][998]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.56.10:825][998]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.56.10:825][998]MaterialEditorStats: Shader Count: 4
+[2022.06.29-21.56.13:700][130]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 368B833782693ABA0E12B58F60531261E07130C1), compiling. 
+[2022.06.29-21.56.13:704][130]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: A90A76F40AC7E67858EF6880BF6B2ABFE75CB2E8), compiling. 
+[2022.06.29-21.56.13:706][130]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 05CC58B0B4811E53B68B9C4B6C0CCA382B378C96), compiling. 
+[2022.06.29-21.56.13:709][130]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 43481A510A16483FBF6EB5C69AA39D3BD04B3727), compiling. 
+[2022.06.29-21.56.13:711][130]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 13386C0C7C177366E228C8A12E037207A91AEB36), compiling. 
+[2022.06.29-21.56.13:713][130]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 4FFFB9C2C76EDA18DCF3D7B532DC98C6A3C58A8F), compiling. 
+[2022.06.29-21.56.13:716][130]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: C833D8A2447001A35B06FB4E2983426C59ECD992), compiling. 
+[2022.06.29-21.56.13:718][130]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: AB2AE65F7DF32C8D1380829E1CBBEB9676C58CB9), compiling. 
+[2022.06.29-21.56.13:724][130]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.29-21.56.13:724][130]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.56.13:724][130]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.56.13:724][130]MaterialEditorStats: Shader Count: 0
+[2022.06.29-21.56.13:808][132]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.29-21.56.13:808][132]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.56.13:808][132]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.56.13:809][132]MaterialEditorStats: Shader Count: 4
+[2022.06.29-21.56.32:330][374]LogViewport: Scene viewport resized to 248x398, mode Windowed.
+[2022.06.29-21.56.32:432][376]LogViewport: Scene viewport resized to 292x398, mode Windowed.
+[2022.06.29-21.56.35:287][564]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 5A2FFC4CD082B9D45B78923BA471A715FCBB0844), compiling. 
+[2022.06.29-21.56.35:293][564]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: FE84B5B552D2C6C13FD5A3CF370DB181103536AE), compiling. 
+[2022.06.29-21.56.35:324][565]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.29-21.56.35:324][565]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.56.35:325][565]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.56.35:325][565]MaterialEditorStats: Shader Count: 0
+[2022.06.29-21.56.35:393][567]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.29-21.56.35:393][567]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.56.35:393][567]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.56.35:393][567]MaterialEditorStats: Shader Count: 4
+[2022.06.29-21.56.40:709][944]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 25FB172BD21548A803B7465B2092E28A999BEE9E), compiling. 
+[2022.06.29-21.56.40:716][944]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 7B3E2E7957B3D38A4CF5EA3586FAA05994CDF4AA), compiling. 
+[2022.06.29-21.56.40:719][944]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.29-21.56.40:719][944]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.56.40:719][944]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.56.40:719][944]MaterialEditorStats: Shader Count: 0
+[2022.06.29-21.56.40:814][946]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.29-21.56.40:814][946]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.56.40:814][946]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.56.40:814][946]MaterialEditorStats: Shader Count: 4
+[2022.06.29-21.56.45:490][264]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 30AC36692113463E936D96A8054DB1332D529108), compiling. 
+[2022.06.29-21.56.45:497][264]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A527F46A146B712AD8CF8003DE7723FBB66C77D2), compiling. 
+[2022.06.29-21.56.45:516][265]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.29-21.56.45:516][265]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.56.45:516][265]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.56.45:516][265]MaterialEditorStats: Shader Count: 0
+[2022.06.29-21.56.45:587][267]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.29-21.56.45:587][267]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.56.45:587][267]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.56.45:587][267]MaterialEditorStats: Shader Count: 4
+[2022.06.29-21.56.49:546][532]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 0995AB47DB2158359D9EA1BB207E3E03FF25C5C8), compiling. 
+[2022.06.29-21.56.49:552][532]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A1A07F06512FB6C176CEAC6DA93780D0E29A46E8), compiling. 
+[2022.06.29-21.56.49:555][532]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.29-21.56.49:556][532]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.56.49:556][532]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.56.49:556][532]MaterialEditorStats: Shader Count: 0
+[2022.06.29-21.56.49:639][534]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.29-21.56.49:639][534]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.56.49:639][534]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.56.49:639][534]MaterialEditorStats: Shader Count: 4
+[2022.06.29-21.56.53:304][782]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 9DC0BFB64E42E764A0E0B82BA4A4584A1CF40531), compiling. 
+[2022.06.29-21.56.53:309][782]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 25AFD567515627C2BACEE1679CE6DAD8763ADE57), compiling. 
+[2022.06.29-21.56.53:339][783]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.29-21.56.53:339][783]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.56.53:339][783]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.56.53:339][783]MaterialEditorStats: Shader Count: 0
+[2022.06.29-21.56.53:443][785]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.29-21.56.53:443][785]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.56.53:443][785]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.56.53:443][785]MaterialEditorStats: Shader Count: 4
+[2022.06.29-21.56.57:502][ 62]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 0473CCAACB3F9914783480765E516F7DFAE1A0EB), compiling. 
+[2022.06.29-21.56.57:508][ 62]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F18856A02232301BB8C4146EC274FF5DCA94C7DC), compiling. 
+[2022.06.29-21.56.57:512][ 62]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.29-21.56.57:512][ 62]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.56.57:512][ 62]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.56.57:512][ 62]MaterialEditorStats: Shader Count: 0
+[2022.06.29-21.56.57:600][ 64]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.29-21.56.57:600][ 64]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.56.57:600][ 64]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.56.57:600][ 64]MaterialEditorStats: Shader Count: 4
+[2022.06.29-21.57.01:575][315]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 4434F2948D1CE40067F7DBF34B46DE7396EF84DE), compiling. 
+[2022.06.29-21.57.01:578][315]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 67A4B5884042305E5763D88DF041A52C1F90CABF), compiling. 
+[2022.06.29-21.57.01:584][315]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.29-21.57.01:584][315]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.57.01:584][315]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.57.01:584][315]MaterialEditorStats: Shader Count: 0
+[2022.06.29-21.57.01:612][317]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.29-21.57.01:612][317]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.57.01:612][317]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.57.01:612][317]MaterialEditorStats: Shader Count: 4
+[2022.06.29-21.57.10:052][864]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: CB1502D849D416D89C63C4FD0E49CA2785530EAD), compiling. 
+[2022.06.29-21.57.10:055][864]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 3D4E8411E50036DE5DE7E820150C837F53C841D6), compiling. 
+[2022.06.29-21.57.10:060][864]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.29-21.57.10:060][864]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.57.10:060][864]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.57.10:060][864]MaterialEditorStats: Shader Count: 0
+[2022.06.29-21.57.10:101][866]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.29-21.57.10:101][866]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.57.10:101][866]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.57.10:101][866]MaterialEditorStats: Shader Count: 4
+[2022.06.29-21.57.13:163][ 56]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 54DD3C875013E38EC74E6E6438CF49F5DB094122), compiling. 
+[2022.06.29-21.57.13:166][ 56]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 98D8BDF2686766A4CED21683B5C142A749432900), compiling. 
+[2022.06.29-21.57.13:171][ 56]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.29-21.57.13:171][ 56]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.57.13:171][ 56]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.57.13:171][ 56]MaterialEditorStats: Shader Count: 0
+[2022.06.29-21.57.13:199][ 58]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.29-21.57.13:199][ 58]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.57.13:199][ 58]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.57.13:199][ 58]MaterialEditorStats: Shader Count: 4
+[2022.06.29-21.57.16:223][256]LogMaterialEditor: Saving and Compiling material LandscapeMaterial
+[2022.06.29-21.57.16:943][256]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6B8EC42F64D9FEABC8687EE87936E73BE03F0F9F), compiling. 
+[2022.06.29-21.57.16:959][256]LogMaterial: Display: Missing cached shadermap for LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D1B76B58744BFEB88B10919DCC5FC871990B46EB), compiling. 
+[2022.06.29-21.57.16:981][256]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_460 in PCD3D_SM5, Default, SM5 (DDC key hash: AFC2B26C5549B91028B5BBAB3D894565F1988A6F), compiling. 
+[2022.06.29-21.57.16:991][256]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_394 in PCD3D_SM5, Default, SM5 (DDC key hash: 793D535E56480A2A6BDDD5FD3FBA814A6791C08E), compiling. 
+[2022.06.29-21.57.16:996][256]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_21 in PCD3D_SM5, Default, SM5 (DDC key hash: B50E9CC4C93235DD64141EBFA0413D4D3B1C4EED), compiling. 
+[2022.06.29-21.57.17:084][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.06.29-21.57.18:578][256]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_23 in PCD3D_SM5, Default, SM5 (DDC key hash: F1FF03D1D7E22159E6277D7B16389BD2D054AFFF), compiling. 
+[2022.06.29-21.57.18:707][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.06.29-21.57.20:616][256]LogSavePackage: Moving output files for package: /Game/Materials/LandscapeMaterial
+[2022.06.29-21.57.20:617][256]LogSavePackage: Moving '../../../../../../Users/sobdo/Documents/Unreal Projects/khrushovkaquestRepository/khrushovkaquest/Saved/LandscapeMaterialDCA8E20249C69FEC394A8EADE60C34C4.tmp' to '../../../../../../Users/sobdo/Documents/Unreal Projects/khrushovkaquestRepository/khrushovkaquest/Content/Materials/LandscapeMaterial.uasset'
+[2022.06.29-21.57.20:632][256]AssetCheck: New page: Asset Save: LandscapeMaterial
+[2022.06.29-21.57.20:633][256]LogContentValidation: Display: Validating Material /Game/Materials/LandscapeMaterial.LandscapeMaterial
+[2022.06.29-21.57.20:643][256]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.06.29-21.57.20:643][256]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2022.06.29-21.57.20:643][256]MaterialEditorStats: Texture samplers: 3/16
+[2022.06.29-21.57.20:643][256]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-21.57.20:643][256]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-21.57.20:643][256]MaterialEditorStats: Shader Count: 16
+[2022.06.29-21.57.29:351][585]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2022.06.29-21.57.34:375][770]LogSlate: Window 'Message' being destroyed
+[2022.06.29-21.57.34:390][770]Message dialog closed, result: Ok, title: Message, text: This layer has no layer info assigned yet. You must create or assign a layer info before you can paint this layer.
+[2022.06.29-21.57.47:655][383]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_582 in PCD3D_SM5, Default, SM5 (DDC key hash: BADC6211A49F1B789DA62806BFA66D17E0B34B1A), compiling. 
+[2022.06.29-21.59.37:269][101]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.06.29-21.59.37:278][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.29-21.59.37:278][101]PIE: New page: PIE session: KhrushovkaMain (30 июн. 2022 г., 03:59:37)
+[2022.06.29-21.59.37:278][101]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_KhrushovkaMain
+[2022.06.29-21.59.37:290][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012210s)
+[2022.06.29-21.59.37:290][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/KhrushovkaMain.KhrushovkaMain to /Game/levels/UEDPIE_0_KhrushovkaMain.KhrushovkaMain (0.012331s)
+[2022.06.29-21.59.37:291][101]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.29-21.59.37:291][101]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.29-21.59.37:291][101]LogAIModule: Creating AISystem for world KhrushovkaMain
+[2022.06.29-21.59.37:292][101]LogPlayLevel: PIE: World Init took: (0.001142s)
+[2022.06.29-21.59.37:302][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.29-21.59.37:303][101]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.06.29-21.59.37:303][101]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.29-21.59.37:303][101]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.29-21.59.37:303][101]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.29-21.59.37:303][101]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.29-21.59.37:303][101]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.29-21.59.37:303][101]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.29-21.59.37:303][101]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.29-21.59.37:303][101]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.29-21.59.37:304][101]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.29-21.59.37:304][101]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.29-21.59.37:304][101]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.29-21.59.37:307][101]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.29-21.59.37:338][101]LogAudioMixer: Display: Using Audio Hardware Device Динамики (2- BEHRINGER USB WDM AUDIO 2.8.40)
+[2022.06.29-21.59.37:338][101]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.29-21.59.37:338][101]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.29-21.59.37:338][101]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.29-21.59.37:340][101]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.06.29-21.59.37:340][101]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.06.29-21.59.37:342][101]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.06.29-21.59.37:342][101]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.06.29-21.59.37:342][101]LogInit: FAudioDevice initialized.
+[2022.06.29-21.59.37:342][101]LogAudio: Display: Audio Device (ID: 5) registered with world 'KhrushovkaMain'.
+[2022.06.29-21.59.37:364][101]LogLoad: Game class is 'khrushovkaquestGameMode'
+[2022.06.29-21.59.37:367][101]LogWorld: Bringing World /Game/levels/UEDPIE_0_KhrushovkaMain.KhrushovkaMain up for play (max tick rate 0) at 2022.06.30-00.59.37
+[2022.06.29-21.59.37:368][101]LogWorld: Bringing up level for play took: 0.003231
+[2022.06.29-21.59.37:370][101]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2022.06.29-21.59.37:372][101]PIE: Server logged in
+[2022.06.29-21.59.37:374][101]PIE: Play in editor total start time 0,096 seconds.
+[2022.06.29-21.59.51:544][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.29-21.59.51:544][902]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_KhrushovkaMain
+[2022.06.29-21.59.51:545][902]LogWorld: UWorld::CleanupWorld for KhrushovkaMain, bSessionEnded=true, bCleanupResources=true
+[2022.06.29-21.59.51:545][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.29-21.59.51:562][902]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.29-21.59.51:564][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.29-21.59.51:579][902]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.29-21.59.51:580][902]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.06.29-21.59.51:584][902]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.06.29-21.59.51:590][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.29-21.59.51:594][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.06.29-21.59.51:634][903]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.06.29-22.00.10:772][705]Cmd: TRANSACTION UNDO
+[2022.06.29-22.00.10:772][705]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.06.29-22.00.10:808][705]LogTexture: Display: Building textures: /Game/levels/KhrushovkaMain.KhrushovkaMain:PersistentLevel.Landscape_0.Weightmap_19 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.06.29-22.00.10:810][705]LogTexture: Display: Building textures: /Game/levels/KhrushovkaMain.KhrushovkaMain:PersistentLevel.Landscape_0.Weightmap_21 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.06.29-22.00.10:811][705]LogTexture: Display: Building textures: /Game/levels/KhrushovkaMain.KhrushovkaMain:PersistentLevel.Landscape_0.Weightmap_11 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.06.29-22.00.10:813][705]LogTexture: Display: Building textures: /Game/levels/KhrushovkaMain.KhrushovkaMain:PersistentLevel.Landscape_0.Weightmap_10 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.06.29-22.00.10:829][705]LogTexture: Display: Building textures: /Game/levels/KhrushovkaMain.KhrushovkaMain:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.06.29-22.00.10:832][705]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 64FADDC2DBA3AA07DEB19D5157934FB3ADE4A667), compiling. 
+[2022.06.29-22.00.10:937][705]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.29-22.00.10:937][705]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-22.00.10:937][705]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-22.00.10:937][705]MaterialEditorStats: Shader Count: 0
+[2022.06.29-22.00.11:105][706]LogShaderCompilers: Display: ================================================
+[2022.06.29-22.00.11:105][706]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.29-22.00.11:105][706]LogShaderCompilers: Display: Total job queries 1016, among them cache hits 760 (74.80%)
+[2022.06.29-22.00.11:105][706]LogShaderCompilers: Display: Tracking 244 distinct input hashes that result in 87 distinct outputs (35.66%)
+[2022.06.29-22.00.11:105][706]LogShaderCompilers: Display: RAM used: 0.20 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.06.29-22.00.11:105][706]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.06.29-22.00.11:105][706]LogShaderCompilers: Display: Shaders Compiled: 42
+[2022.06.29-22.00.11:105][706]LogShaderCompilers: Display: Jobs assigned 244, completed 244 (100.00%)
+[2022.06.29-22.00.11:105][706]LogShaderCompilers: Display: Average time worker was idle: 78.39 s
+[2022.06.29-22.00.11:105][706]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2022.06.29-22.00.11:105][706]LogShaderCompilers: Display: Job execution time: average 1.23 s, max 2.18 s
+[2022.06.29-22.00.11:105][706]LogShaderCompilers: Display: Job life time (pending + execution): average 1.29 s, max 2.27
+[2022.06.29-22.00.11:106][706]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 74.64 s
+[2022.06.29-22.00.11:106][706]LogShaderCompilers: Display: Jobs were issued in 244 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.06.29-22.00.11:106][706]LogShaderCompilers: Display: Average processing rate: 3.27 jobs/sec
+[2022.06.29-22.00.11:106][706]LogShaderCompilers: Display: Effective parallelization: 3.35 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2022.06.29-22.00.11:106][706]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.06.29-22.00.11:106][706]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    5 times, average 1.58 sec, max 1.75 sec, min 1.50 sec)
+[2022.06.29-22.00.11:106][706]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    5 times, average 1.56 sec, max 1.71 sec, min 1.48 sec)
+[2022.06.29-22.00.11:106][706]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    5 times, average 1.54 sec, max 1.73 sec, min 1.45 sec)
+[2022.06.29-22.00.11:106][706]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    5 times, average 1.54 sec, max 1.73 sec, min 1.43 sec)
+[2022.06.29-22.00.11:106][706]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    5 times, average 1.52 sec, max 1.69 sec, min 1.44 sec)
+[2022.06.29-22.00.11:106][706]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.06.29-22.00.11:106][706]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.66% of total time (compiled   45 times, average 1.09 sec, max 1.40 sec, min 0.89 sec)
+[2022.06.29-22.00.11:106][706]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.70% of total time (compiled   34 times, average 1.08 sec, max 1.36 sec, min 0.95 sec)
+[2022.06.29-22.00.11:106][706]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.00% of total time (compiled   34 times, average 0.96 sec, max 1.34 sec, min 0.75 sec)
+[2022.06.29-22.00.11:106][706]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.85% of total time (compiled   16 times, average 1.23 sec, max 1.64 sec, min 0.96 sec)
+[2022.06.29-22.00.11:106][706]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.61% of total time (compiled   34 times, average 0.41 sec, max 0.57 sec, min 0.35 sec)
+[2022.06.29-22.00.11:106][706]LogShaderCompilers: Display: ================================================
+[2022.06.29-22.00.11:185][707]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.29-22.00.11:185][707]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-22.00.11:185][707]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-22.00.11:185][707]MaterialEditorStats: Shader Count: 4
+[2022.06.29-22.00.23:623][233]Cmd: TRANSACTION UNDO
+[2022.06.29-22.00.23:623][233]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.06.29-22.00.23:672][233]LogTexture: Display: Building textures: /Game/levels/KhrushovkaMain.KhrushovkaMain:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.06.29-22.00.23:675][233]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 815F8BE148B0F3654ECDE169583ED6274BDF5D85), compiling. 
+[2022.06.29-22.00.23:787][233]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.29-22.00.23:787][233]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-22.00.23:787][233]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-22.00.23:787][233]MaterialEditorStats: Shader Count: 0
+[2022.06.29-22.00.23:998][235]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.29-22.00.23:998][235]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-22.00.23:998][235]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-22.00.23:998][235]MaterialEditorStats: Shader Count: 4
+[2022.06.29-22.01.16:363][509]Cmd: TRANSACTION UNDO
+[2022.06.29-22.01.16:363][509]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.06.29-22.01.16:504][509]LogTexture: Display: Building textures: /Game/levels/KhrushovkaMain.KhrushovkaMain:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.06.29-22.01.16:507][509]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: BBB756E67298410C00E35BB7C65D6CA07022713B), compiling. 
+[2022.06.29-22.01.16:623][509]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.29-22.01.16:623][509]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-22.01.16:623][509]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-22.01.16:623][509]MaterialEditorStats: Shader Count: 0
+[2022.06.29-22.01.16:915][512]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.29-22.01.16:915][512]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.06.29-22.01.16:915][512]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.29-22.01.16:915][512]MaterialEditorStats: Shader Count: 4
+[2022.06.29-22.01.23:553][811]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.06.29-22.01.23:561][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.29-22.01.23:561][811]PIE: New page: PIE session: KhrushovkaMain (30 июн. 2022 г., 04:01:23)
+[2022.06.29-22.01.23:561][811]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_KhrushovkaMain
+[2022.06.29-22.01.23:573][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011575s)
+[2022.06.29-22.01.23:573][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/KhrushovkaMain.KhrushovkaMain to /Game/levels/UEDPIE_0_KhrushovkaMain.KhrushovkaMain (0.011689s)
+[2022.06.29-22.01.23:573][811]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.29-22.01.23:573][811]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.29-22.01.23:574][811]LogAIModule: Creating AISystem for world KhrushovkaMain
+[2022.06.29-22.01.23:574][811]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2022.06.29-22.01.23:587][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.06.29-22.01.23:588][811]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.06.29-22.01.23:588][811]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.29-22.01.23:589][811]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.29-22.01.23:589][811]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.29-22.01.23:589][811]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.29-22.01.23:589][811]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.29-22.01.23:589][811]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.29-22.01.23:589][811]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.29-22.01.23:589][811]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.29-22.01.23:589][811]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.29-22.01.23:589][811]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.29-22.01.23:589][811]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.29-22.01.23:592][811]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.29-22.01.23:626][811]LogAudioMixer: Display: Using Audio Hardware Device Динамики (2- BEHRINGER USB WDM AUDIO 2.8.40)
+[2022.06.29-22.01.23:627][811]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.29-22.01.23:627][811]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.29-22.01.23:627][811]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.29-22.01.23:628][811]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.06.29-22.01.23:628][811]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.06.29-22.01.23:630][811]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.06.29-22.01.23:630][811]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.06.29-22.01.23:630][811]LogInit: FAudioDevice initialized.
+[2022.06.29-22.01.23:630][811]LogAudio: Display: Audio Device (ID: 6) registered with world 'KhrushovkaMain'.
+[2022.06.29-22.01.23:655][811]LogLoad: Game class is 'khrushovkaquestGameMode'
+[2022.06.29-22.01.23:660][811]LogWorld: Bringing World /Game/levels/UEDPIE_0_KhrushovkaMain.KhrushovkaMain up for play (max tick rate 0) at 2022.06.30-01.01.23
+[2022.06.29-22.01.23:661][811]LogWorld: Bringing up level for play took: 0.005277
+[2022.06.29-22.01.23:665][811]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2022.06.29-22.01.23:669][811]PIE: Server logged in
+[2022.06.29-22.01.23:671][811]PIE: Play in editor total start time 0,11 seconds.
+[2022.06.29-22.01.30:554][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.29-22.01.30:554][191]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_KhrushovkaMain
+[2022.06.29-22.01.30:555][191]LogWorld: UWorld::CleanupWorld for KhrushovkaMain, bSessionEnded=true, bCleanupResources=true
+[2022.06.29-22.01.30:555][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.29-22.01.30:573][191]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.29-22.01.30:576][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.29-22.01.30:591][191]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.29-22.01.30:591][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.06.29-22.01.30:594][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.06.29-22.01.30:600][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.29-22.01.30:602][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.06.29-22.01.30:755][192]LogPlayLevel: Display: Destroying online subsystem :Context_10
