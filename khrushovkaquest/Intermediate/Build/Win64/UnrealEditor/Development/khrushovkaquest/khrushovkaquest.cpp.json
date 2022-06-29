@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\sobdo\\documents\\unreal projects\\khrushovkaquest\\source\\khrushovkaquest\\khrushovkaquest.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\sobdo\\documents\\unreal projects\\khrushovkaquest\\intermediate\\build\\win64\\khrushovkaquesteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\sobdo\\documents\\unreal projects\\khrushovkaquest\\intermediate\\build\\win64\\unrealeditor\\development\\khrushovkaquest\\definitions.khrushovkaquest.h",
+            "c:\\users\\sobdo\\documents\\unreal projects\\khrushovkaquest\\source\\khrushovkaquest\\khrushovkaquest.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

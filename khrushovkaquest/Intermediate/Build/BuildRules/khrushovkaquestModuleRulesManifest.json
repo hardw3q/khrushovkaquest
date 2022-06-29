@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\sobdo\\Documents\\Unreal Projects\\khrushovkaquest\\Source\\khrushovkaquest\\khrushovkaquest.Build.cs",
+		"C:\\Users\\sobdo\\Documents\\Unreal Projects\\khrushovkaquest\\Source\\khrushovkaquest.Target.cs",
+		"C:\\Users\\sobdo\\Documents\\Unreal Projects\\khrushovkaquest\\Source\\khrushovkaquestEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.2"
+}

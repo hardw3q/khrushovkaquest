@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\khrushovkaquest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\khrushovkaquest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\khrushovkaquestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\khrushovkaquest">
+      <UniqueIdentifier>{92943664-A80F-3D80-AEBB-FA16B42CF73A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\khrushovkaquest\khrushovkaquest.Build.cs">
+      <Filter>Source\khrushovkaquest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\khrushovkaquest\khrushovkaquest.cpp">
+      <Filter>Source\khrushovkaquest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\khrushovkaquest\khrushovkaquest.h">
+      <Filter>Source\khrushovkaquest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\khrushovkaquest\khrushovkaquestCharacter.cpp">
+      <Filter>Source\khrushovkaquest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\khrushovkaquest\khrushovkaquestCharacter.h">
+      <Filter>Source\khrushovkaquest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\khrushovkaquest\khrushovkaquestGameMode.cpp">
+      <Filter>Source\khrushovkaquest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\khrushovkaquest\khrushovkaquestGameMode.h">
+      <Filter>Source\khrushovkaquest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\khrushovkaquest\khrushovkaquestProjectile.cpp">
+      <Filter>Source\khrushovkaquest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\khrushovkaquest\khrushovkaquestProjectile.h">
+      <Filter>Source\khrushovkaquest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\khrushovkaquest\TP_PickUpComponent.cpp">
+      <Filter>Source\khrushovkaquest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\khrushovkaquest\TP_PickUpComponent.h">
+      <Filter>Source\khrushovkaquest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\khrushovkaquest\TP_WeaponComponent.cpp">
+      <Filter>Source\khrushovkaquest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\khrushovkaquest\TP_WeaponComponent.h">
+      <Filter>Source\khrushovkaquest</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "khrushovkaquest",
+			"Path": "C:\\Users\\sobdo\\Documents\\Unreal Projects\\khrushovkaquest\\Source\\khrushovkaquest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "khrushovkaquestEditor",
+			"Path": "C:\\Users\\sobdo\\Documents\\Unreal Projects\\khrushovkaquest\\Source\\khrushovkaquestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

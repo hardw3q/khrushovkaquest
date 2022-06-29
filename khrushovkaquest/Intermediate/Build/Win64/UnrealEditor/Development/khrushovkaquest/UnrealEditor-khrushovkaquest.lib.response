@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-khrushovkaquest.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\sobdo\Documents\Unreal Projects\khrushovkaquest\Intermediate\Build\Win64\khrushovkaquestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\sobdo\Documents\Unreal Projects\khrushovkaquest\Intermediate\Build\Win64\UnrealEditor\Development\khrushovkaquest\khrushovkaquest.cpp.obj"
+"C:\Users\sobdo\Documents\Unreal Projects\khrushovkaquest\Intermediate\Build\Win64\UnrealEditor\Development\khrushovkaquest\khrushovkaquestCharacter.cpp.obj"
+"C:\Users\sobdo\Documents\Unreal Projects\khrushovkaquest\Intermediate\Build\Win64\UnrealEditor\Development\khrushovkaquest\khrushovkaquestGameMode.cpp.obj"
+"C:\Users\sobdo\Documents\Unreal Projects\khrushovkaquest\Intermediate\Build\Win64\UnrealEditor\Development\khrushovkaquest\khrushovkaquestProjectile.cpp.obj"
+"C:\Users\sobdo\Documents\Unreal Projects\khrushovkaquest\Intermediate\Build\Win64\UnrealEditor\Development\khrushovkaquest\TP_PickUpComponent.cpp.obj"
+"C:\Users\sobdo\Documents\Unreal Projects\khrushovkaquest\Intermediate\Build\Win64\UnrealEditor\Development\khrushovkaquest\TP_WeaponComponent.cpp.obj"
+"C:\Users\sobdo\Documents\Unreal Projects\khrushovkaquest\Intermediate\Build\Win64\UnrealEditor\Development\khrushovkaquest\khrushovkaquest.init.gen.cpp.obj"
+"C:\Users\sobdo\Documents\Unreal Projects\khrushovkaquest\Intermediate\Build\Win64\UnrealEditor\Development\khrushovkaquest\khrushovkaquestCharacter.gen.cpp.obj"
+"C:\Users\sobdo\Documents\Unreal Projects\khrushovkaquest\Intermediate\Build\Win64\UnrealEditor\Development\khrushovkaquest\khrushovkaquestGameMode.gen.cpp.obj"
+"C:\Users\sobdo\Documents\Unreal Projects\khrushovkaquest\Intermediate\Build\Win64\UnrealEditor\Development\khrushovkaquest\khrushovkaquestProjectile.gen.cpp.obj"
+"C:\Users\sobdo\Documents\Unreal Projects\khrushovkaquest\Intermediate\Build\Win64\UnrealEditor\Development\khrushovkaquest\TP_PickUpComponent.gen.cpp.obj"
+"C:\Users\sobdo\Documents\Unreal Projects\khrushovkaquest\Intermediate\Build\Win64\UnrealEditor\Development\khrushovkaquest\TP_WeaponComponent.gen.cpp.obj"
+"C:\Users\sobdo\Documents\Unreal Projects\khrushovkaquest\Intermediate\Build\Win64\UnrealEditor\Development\khrushovkaquest\Default.rc2.res"
+/OUT:"C:\Users\sobdo\Documents\Unreal Projects\khrushovkaquest\Intermediate\Build\Win64\UnrealEditor\Development\khrushovkaquest\UnrealEditor-khrushovkaquest.lib"
